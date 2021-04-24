@@ -1,1 +1,1 @@
-Wroking locally after cloning 
+Wroking locally after clone
